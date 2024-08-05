@@ -1,0 +1,2 @@
+# Wally
+Aplicacion de finanzas
