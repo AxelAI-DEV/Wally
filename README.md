@@ -1,17 +1,21 @@
 # 📚 Iniciativa Financiera para Estudiantes Universitarios
 
-## 👥 Miembros
+## 👥 Nuestros miembros
 - Axel Cardona Vasquez
 - Wendy Atehortúa
 - Sofía Hernández Quintero
 
 ## 🌟 ¿Qué Somos?
-Somos una iniciativa financiera para estudiantes universitarios que busca ayudarles a manejar sus gastos mientras les inculcamos educación económica. Utilizamos herramientas como:
-- **Proyección presupuestal**
-- **Definición de metas para ahorros**
+Somos un proyecto financiero para estudiantes universitarios que busca ayudarles a manejar sus gastos mientras los ayudamos a aprender a manerjar sus finanzas. 
+Tenemos herramientas que te ayudaran como: 
+- **Proyección y planeación del presupuesto**
+- **Metas de ahorros**
 - **Seguimiento de gastos hormiga**
 
 ## 🚀 Objetivos
-- **Educación Financiera:** Proveer conocimientos básicos y avanzados sobre finanzas personales.
-- **Herramientas Prácticas:** Ofrecer herramientas que faciliten la gestión de los recursos económicos.
-- **Apoyo Continuo:** Brindar soporte y seguimiento a los estudiantes en su camino hacia la estabilidad financiera.
+- **Educación Financiera:** Provee de conocimientos básicos para que empieces a manejar tus finanzas.
+- **Herramientas Prácticas:** Ofrece herramientas que faciliten la gestión de los recursos económicos al ser muy intuitivo.
+- **Apoyo Continuo:** Brinda soporte y seguimiento a los estudiantes en su camino hacia la estabilidad financiera.
+
+## 📈 ¿Estado del proyecto?
+En progreso. 
