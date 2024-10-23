@@ -1,0 +1,36 @@
+.custom-margin {
+    margin-top: 100px;
+}
+
+.login-form {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+#form-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+#formbox {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    flex: 1;
+    max-width: 18%; /* Para mantener 5 cajas en línea */
+    min-width: 18%; /* Para mantener el tamaño uniforme */
+    box-sizing: border-box;
+}
+
+button.btn-lg {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
