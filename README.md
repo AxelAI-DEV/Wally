@@ -4,6 +4,7 @@
 - Axel Cardona Vasquez
 - Wendy Atehortúa
 - Sofía Hernández Quintero
+- Samuel Correa
 
 ## 🌟 ¿Qué Somos?
 Somos un proyecto financiero para estudiantes universitarios que busca ayudarles a manejar sus gastos mientras los ayudamos a aprender a manerjar sus finanzas. 
